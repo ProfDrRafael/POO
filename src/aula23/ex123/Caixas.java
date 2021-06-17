@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula23.ex1;
+package aula23.ex123;
 
 import javax.swing.JOptionPane;
 
@@ -40,7 +40,6 @@ public class Caixas extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Exemplos de MessageDialog");
-        setPreferredSize(new java.awt.Dimension(300, 420));
 
         lbTitulo.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         lbTitulo.setText("Caixas de Diálogo");
